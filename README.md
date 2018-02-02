@@ -6,3 +6,6 @@ To push run:
 
 `npm run push`
 
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinBeckwith/funfunfun.svg)](https://greenkeeper.io/)
